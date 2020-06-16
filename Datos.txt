@@ -1,0 +1,5 @@
+{"Nombre":"juan antonio ramos guzman","Edad":"20","Sexo":"masculino "}
+{"Nombre":"victor de la o martinez","Edad":"50","Sexo":"masculino "}
+{"Nombre":"ana patricia barba escamilla ","Edad":"24","Sexo":"femenino"}
+{"Nombre":"prueba 1","Edad":"28","Sexo":"femenino"}
+{"Nombre":"prueba 2","Edad":"28","Sexo":"masculino"}
